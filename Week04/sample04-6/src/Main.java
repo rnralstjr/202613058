@@ -12,5 +12,4 @@ void main() {
     BigInteger c1 = a1.multiply(b1);
 
     System.out.printf("a1 = %,d, b1 = %,d, c1 = %,d\n", a1 ,b1 , c1);
-
 }

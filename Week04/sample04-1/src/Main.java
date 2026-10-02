@@ -7,5 +7,4 @@ void main() {
     double d = (double) a / b;  // (float)
 
     System.out.printf("a = %d, b = %d, c = %.2f, d = %.2f \n", a, b, c, d);
-
 }

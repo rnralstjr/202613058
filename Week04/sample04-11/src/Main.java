@@ -13,4 +13,5 @@ void main() {
     System.out.printf("합계 : %,d 원\n", sum);
     System.out.printf("세금 : %,.2f 원\n", tax);
     System.out.printf("순수 이자 : %,d 원 \n", result);
+
 }

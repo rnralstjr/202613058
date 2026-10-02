@@ -6,5 +6,4 @@ void main() {
 
     System.out.printf("x = %f, sum = %f\n", x, sum);
     System.out.println(sum);
-
 }

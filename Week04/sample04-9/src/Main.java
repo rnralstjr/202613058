@@ -17,5 +17,4 @@ void main(String[] args) {
     System.out.printf("\t밑변 : %d Cm\n", base);
     System.out.printf("\t높이 : %d Cm\n", height);
     System.out.printf("\n\t넓이 : %.2f \u33a0\n", area);
-
 }
