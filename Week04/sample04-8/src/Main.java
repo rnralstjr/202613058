@@ -15,4 +15,5 @@ void main() {
     dollar = money / exchange;
 
     System.out.printf("\n원화(\u20a9) %,d원은 %,.2f 달러(\u0024) 입니다.\n", money, dollar);
+
 }
